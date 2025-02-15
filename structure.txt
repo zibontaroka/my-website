@@ -1,0 +1,24 @@
+C:\Users\Hp\Desktop\main site\
+│
+├── about.html
+├── contact.html
+├── index.html
+├── login.html
+├── registration.html
+├── services.html
+├── README.md
+├── LICENSE
+├── structure.text
+│
+├── css\
+│   └── style.css
+│
+├── images\
+│   ├── logo.png
+│   ├── Md Shaifulla Zibon.JPG
+│   ├── slide1.jpg
+│   ├── slide2.jpg
+│   └── slide3.jpg
+│
+└── js\
+    └── script.js
