@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # my-website
 A simple and responsive website with multiple pages, including Home, About, Services, Contact, Login, and Registration. Built with HTML, CSS, and JavaScript.
 =======
 # IoT Website
 
-This project is a simple website designed to showcase various IoT-related solutions such as smart home automation, smart agriculture, surveillance systems, and custom IoT projects. It features multiple sections including Home, About, Services, and Contact.
+This project is a simple website designed to showcase various IoT-related solutions such as smart home automation, smart agriculture, surveillance systems, and custom IoT projects. It features multiple sections, including Home, About, Services, and Contact.
 
 
 ## Features
