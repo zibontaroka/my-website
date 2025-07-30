@@ -32,12 +32,11 @@ This project is a simple website designed to showcase various IoT-related soluti
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to the project maintainer:
-
-- **Md Shaifulla Zibon**
-- mdshaifullazibon11@gmail.com
+## 🧠 Author  
+**Md Shaifulla Zibon**  
+Electrical and Electronics Engineering  
+European University of Bangladesh  
+GitHub: [@zibontaroka](https://github.com/zibontaroka)
 
 
 >>>>>>> 05d5ec6 (initial commit)
